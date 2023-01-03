@@ -1,0 +1,11 @@
+*{
+    background-color: rgba(95, 90, 100, 0.538);
+}
+h1 {
+    background-color: black;
+    color: beige;
+}
+p {
+    background-color: bisque;
+    color: black;
+}
